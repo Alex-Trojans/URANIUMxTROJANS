@@ -1,5 +1,5 @@
-![Miku](https://telegra.ph/file/bc219808c6d888fc72260.jpg)
-# 𝓜𝓲𝓴𝓾 𝓝𝓪𝓴𝓪𝓷𝓸
+![TROJANS](https://telegra.ph/file/262cd3ee5fff9e28682d7.jpg)
+# TROJANS
 <h3 align="center"> 
     A Modular Telegram Python Bot Running On Python3 With Mongo DB, Sqlalchemy, Redis Database.
 </h3>
@@ -27,16 +27,16 @@
 + [x] Heroku Deploy
 + [x] Docker/Local Machine
 
-╘══「 Can be found on telegram as [Miku Nakano](https://t.me/Mikuxprobot) 」
+╘══「 Can be found on telegram as [TROJANS](https://t.me/TROJANSxROBOT) 」
 
-![Miku](https://telegra.ph/file/9d78988131658606a3d57.jpg)
+![TROJANS](https://telegra.ph/file/262cd3ee5fff9e28682d7.jpg)
 
 ### ╒═══「 Creator Info/Credits 」
 
-+  [Hodaka](https://github.com/h0daka) : OWNER | DEV
-+  [Rajkumar](https://github.com/Awesome-RJ) : BASE
-+  [Hirojazz](https://github.com/Hirojazz) : BASE
-+  [Dank-del](https://github.com/Dank-del) : BASE 
++  [TROJANS](https://github.com/THEURANIUM92) : OWNER | DEV
+
+
+
 
 ╘══「 Any other authorship/credits can be seen through the commits. 」
 
@@ -46,7 +46,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 
 ### ╒═══「 Support Group 」 
 
-The Support group can be reached out to at [Miku • Support](https://t.me/MikusSupport), where you can ask for help about [Miku Nakano](https://t.me/Mikuxprobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [TROJANS • Support](https://t.me/TROJANS_x_SUPPORT), where you can ask for help about [TROJANS](https://t.me/TROJANS_x_ROBOT), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Heroku Deploy</summary>
@@ -57,7 +57,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/h0daka/Miku-Nakano">
+        <a href="https://heroku.com/deploy?template=https://github.com/THEURANIUM92/URANIUMxTROJANS">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>

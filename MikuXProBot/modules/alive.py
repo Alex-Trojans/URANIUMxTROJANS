@@ -18,10 +18,10 @@ from pyrogram import __version__ as pyro
 
 edit_time = 5
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/f1e9b94decb547cb45cab.jpg"
-file2 = "https://telegra.ph/file/c5b6c0a3a6832efc08e5b.jpg"
-file3 = "https://telegra.ph/file/1dbcdedfc78d0318a288b.jpg"
-file4 = "https://telegra.ph/file/ac522b519f77a1054e9e9.jpg"
+file1 = "https://telegra.ph/file/4476fd80a859163aba1e0.jpg"
+file2 = "https://telegra.ph/file/16b5c19b00890b7efd984.jpg"
+file3 = "https://telegra.ph/file/5bd4876b8de01ee2a0361.jpg"
+file4 = "https://telegra.ph/file/262cd3ee5fff9e28682d7.jpg"
 """ =======================CONSTANTS====================== """
 
 START_TIME = datetime.utcnow()
@@ -51,14 +51,14 @@ async def hmm(yes):
     current_time = datetime.utcnow()
     uptime_sec = (current_time - START_TIME).total_seconds()
     uptime = await _human_time_duration(int(uptime_sec))
-    Miku = f"♡ **Hey [{yes.sender.first_name}](tg://user?id={yes.sender.id}), I'm Miku**\n\n"
+    Miku = f"♡ **Hey [{yes.sender.first_name}](tg://user?id={yes.sender.id}), I'm TROJANS **\n\n"
     Miku += f"♡ **My Uptime** ~♪ `{uptime}`\n\n"
     Miku += f"♡ **Telethon Version** ~♪ `{version.__version__}`\n\n"
     Miku += f"♡ **Python Telegram Bot Version** ~♪ `{telegram.__version__}`\n\n"
     Miku += f"♡ **Pyrogram Version** ~♪ `{pyro}`\n\n"
     Miku += f"♡ **My Master** ~♪ [{OWNER_NAME}](tg://user?id={OWNER_ID})\n\n"
     Miku += f"Thanks For Adding Me In {yes.chat.title}"
-    BUTTON = [[Button.url("Support Chat", "https://t.me/MikusSupport"), Button.url("Updates Channel", "https://t.me/Pegasusupdates")]]
+    BUTTON = [[Button.url("Support Chat", "https://t.me/TROJANS_x_SUPPORT"), Button.url("Updates Channel", "https://t.me/TROJANS_x_UPDATES")]]
     on = await borg.send_file(yes.chat_id, file=file2,caption=Miku, buttons=BUTTON)
 
     await asyncio.sleep(edit_time)
@@ -85,5 +85,5 @@ async def hmm(yes):
 @register(pattern=("/repo"))
 async def repo(event):
     Miku = f"**Hey [{event.sender.first_name}](tg://user?id={event.sender.id}), Click The Button Below To Get My Repo**\n\n"
-    BUTTON = [[Button.url("[► Support ◄]", "https://t.me/MikusSupport"), Button.url("[► Repo ◄]", "https://github.com/h0daka/Miku-Nakano")]]
-    await borg.send_file(event.chat_id, file="https://telegra.ph/file/c5b6c0a3a6832efc08e5b.jpg", caption=Miku, buttons=BUTTON)
+    BUTTON = [[Button.url("[► Support ◄]", "https://t.me/TROJANS_x_SUPPORT"), Button.url("[► Repo ◄]", "")]]
+    await borg.send_file(event.chat_id, file="https://telegra.ph/file/262cd3ee5fff9e28682d7.jpg", caption=Miku, buttons=BUTTON)

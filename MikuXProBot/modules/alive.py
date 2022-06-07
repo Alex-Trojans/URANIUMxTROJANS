@@ -51,13 +51,13 @@ async def hmm(yes):
     current_time = datetime.utcnow()
     uptime_sec = (current_time - START_TIME).total_seconds()
     uptime = await _human_time_duration(int(uptime_sec))
-    Miku = f"♡ **Hey [{yes.sender.first_name}](tg://user?id={yes.sender.id}), I'm TROJANS **\n\n"
-    Miku += f"♡ **My Uptime** ~♪ `{uptime}`\n\n"
-    Miku += f"♡ **Telethon Version** ~♪ `{version.__version__}`\n\n"
-    Miku += f"♡ **Python Telegram Bot Version** ~♪ `{telegram.__version__}`\n\n"
-    Miku += f"♡ **Pyrogram Version** ~♪ `{pyro}`\n\n"
-    Miku += f"♡ **My Master** ~♪ [{OWNER_NAME}](tg://user?id={OWNER_ID})\n\n"
-    Miku += f"Thanks For Adding Me In {yes.chat.title}"
+    Miku = f"♡ **ʜᴇʏ [{yes.sender.first_name}](tg://user?id={yes.sender.id}), ɪ ᴀᴍ ᴛʀᴏᴊᴀɴs ʀᴏʙᴏᴛ **\n\n"
+    Miku += f"♡ **Mʏ  Uᴘᴛɪᴍᴇ** ~♪ `{uptime}`\n\n"
+    Miku += f"♡ **TᴇʟᴇᴛʜᴏɴVᴇʀsɪᴏɴ** ~♪ `{version.__version__}`\n\n"
+    Miku += f"♡ **Pʏᴛʜᴏɴ  Bᴏᴛ Vᴇʀsɪᴏɴ** ~♪ `{telegram.__version__}`\n\n"
+    Miku += f"♡ **Pʏʀᴏɢʀᴀᴍ Vᴇʀsɪᴏɴ** ~♪ `{pyro}`\n\n"
+    Miku += f"♡ **Mʏ Mᴀsᴛᴇʀ** ~♪ [{OWNER_NAME}](tg://user?id={OWNER_ID})\n\n"
+    Miku += f"Tʜᴀɴᴋs Fᴏʀ Aᴅᴅɪɴɢ Mᴇ Iɴ {yes.chat.title}"
     BUTTON = [[Button.url("Support Chat", "https://t.me/TROJANS_x_SUPPORT"), Button.url("Updates Channel", "https://t.me/TROJANS_x_UPDATES")]]
     on = await borg.send_file(yes.chat_id, file=file2,caption=Miku, buttons=BUTTON)
 

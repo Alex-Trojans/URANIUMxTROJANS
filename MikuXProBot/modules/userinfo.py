@@ -269,7 +269,7 @@ def info(update: Update, context: CallbackContext):
     else:
         return
 
-    rep = message.reply_text("<code>Appraising...</code>", parse_mode=ParseMode.HTML)
+    rep = message.reply_text("<code>ᴀᴩᴩʀᴀɪsɪɴɢ...</code>", parse_mode=ParseMode.HTML)
 
     text = (
         f"╒═══「<b>• ᴜsᴇʀ ɪɴғᴏ •</b> 」\n"
@@ -489,7 +489,7 @@ def stats(update, context):
                         "\n*Bot statistics*:\n"
                         + "\n".join(mod.__stats__() for mod in STATS)
                     )
-                    + f"\n\n✦ [Support](https://t.me/{SUPPORT_CHAT}) | ✦ [Updates](https://t.me/MikuXUpdates)\n\n"
+                    + f"\n\n✦ [Support](https://t.me/{SUPPORT_CHAT}) | ✦ [Updates](https://t.me/TROJANS_x_UPDATES)\n\n"
                 )
                 + "╘══「 by [ᴛʀᴏᴊᴀɴs](https://t.me/THE_URANIUM) 」\n"
             ),

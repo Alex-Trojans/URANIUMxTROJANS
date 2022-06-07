@@ -1,4 +1,4 @@
-PM_START_TEXT = """────「 [{}]({}) 」────\n*Hello {}!*\n*I'ᴍ Aɴ Aɴɪᴍᴇ Tʜᴇᴍᴇᴅ Aᴅᴠᴀɴᴄᴇ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*\n\n❍ *ᴜᴘᴛɪᴍᴇ:* `{}`\n❍ `{}` *ᴜsᴇʀs, ᴀᴄʀᴏss* `{}` *ᴄʜᴀᴛs*\n\n*Cʟɪᴄᴋ Tʜᴇ Hᴇʟᴘ Bᴜᴛᴛᴏɴ Tᴏ Gᴇᴛ Lɪsᴛ Oғ Mʏ Cᴏᴍᴍᴀɴᴅs.*\nᴛʜᴀɴᴋs ᴛᴏ @TROJANSxROBOT """
+PM_START_TEXT = """────「 [{}]({}) 」────\n*ʜᴇʟʟᴏ {}!*\n*I'ᴍ Aɴ Aɴɪᴍᴇ Tʜᴇᴍᴇᴅ Aᴅᴠᴀɴᴄᴇ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*\n\n❍ *ᴜᴘᴛɪᴍᴇ:* `{}`\n❍ `{}` *ᴜsᴇʀs, ᴀᴄʀᴏss* `{}` *ᴄʜᴀᴛs*\n\n*Cʟɪᴄᴋ Tʜᴇ Hᴇʟᴘ Bᴜᴛᴛᴏɴ Tᴏ Gᴇᴛ Lɪsᴛ Oғ Mʏ Cᴏᴍᴍᴀɴᴅs.*\nᴛʜᴀɴᴋs ᴛᴏ @TROJANSxROBOT """
 
 MIKU_IMG = (
       "https://telegra.ph/file/d4827ca9568b97972b870.jpg",

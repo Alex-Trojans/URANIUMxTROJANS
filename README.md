@@ -1,4 +1,4 @@
-![TROJANS](https://telegra.ph/file/262cd3ee5fff9e28682d7.jpg)
+![URANIUM](https://telegra.ph/file/262cd3ee5fff9e28682d7.jpg)
 # TROJANS
 <h3 align="center"> 
     A Modular Telegram Python Bot Running On Python3 With Mongo DB, Sqlalchemy, Redis Database.
